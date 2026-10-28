@@ -8,8 +8,7 @@ var searchData=
   ['discreteflowreader_5',['DiscreteFlowReader',['../classmxl_1_1lib_1_1DiscreteFlowReader.html',1,'mxl::lib']]],
   ['discreteflowwriter_6',['DiscreteFlowWriter',['../classmxl_1_1lib_1_1DiscreteFlowWriter.html',1,'mxl::lib']]],
   ['domain_7',['Domain',['../classmxl_1_1lib_1_1fabrics_1_1ofi_1_1Domain.html',1,'mxl::lib::fabrics::ofi']]],
-  ['domainwatcher_8',['DomainWatcher',['../classmxl_1_1lib_1_1DomainWatcher.html',1,'mxl::lib']]],
-  ['domainwatcherrecord_9',['DomainWatcherRecord',['../structmxl_1_1lib_1_1DomainWatcherRecord.html',1,'mxl::lib']]],
-  ['done_10',['done',['../structmxl_1_1lib_1_1fabrics_1_1ofi_1_1RCInitiatorEndpoint_1_1Done.html',1,'mxl::lib::fabrics::ofi::RCInitiatorEndpoint::Done'],['../structmxl_1_1lib_1_1fabrics_1_1ofi_1_1RDMInitiatorTarget_1_1Done.html',1,'mxl::lib::fabrics::ofi::RDMInitiatorTarget::Done']]],
-  ['duration_11',['Duration',['../structmxl_1_1lib_1_1Duration.html',1,'mxl::lib']]]
+  ['domainwatcherrecord_8',['DomainWatcherRecord',['../structmxl_1_1lib_1_1DomainWatcherRecord.html',1,'mxl::lib']]],
+  ['done_9',['Done',['../structmxl_1_1lib_1_1fabrics_1_1ofi_1_1RCInitiatorEndpoint_1_1Done.html',1,'mxl::lib::fabrics::ofi::RCInitiatorEndpoint::Done'],['../structmxl_1_1lib_1_1fabrics_1_1ofi_1_1RDMInitiatorTarget_1_1Done.html',1,'mxl::lib::fabrics::ofi::RDMInitiatorTarget::Done']]],
+  ['duration_10',['Duration',['../structmxl_1_1lib_1_1Duration.html',1,'mxl::lib']]]
 ];

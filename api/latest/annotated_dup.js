@@ -1,8 +1,8 @@
 var annotated_dup =
 [
     [ "fmt", null, [
-      [ "formatter< mxlFabricsProvider >", "structfmt_1_1formatter_3_01mxlFabricsProvider_01_4.html", "structfmt_1_1formatter_3_01mxlFabricsProvider_01_4" ],
-      [ "formatter< ofi::Provider >", "structfmt_1_1formatter_3_01ofi_1_1Provider_01_4.html", "structfmt_1_1formatter_3_01ofi_1_1Provider_01_4" ]
+      [ "formatter&lt; mxlFabricsProvider &gt;", "structfmt_1_1formatter_3_01mxlFabricsProvider_01_4.html", "structfmt_1_1formatter_3_01mxlFabricsProvider_01_4" ],
+      [ "formatter&lt; ofi::Provider &gt;", "structfmt_1_1formatter_3_01ofi_1_1Provider_01_4.html", "structfmt_1_1formatter_3_01ofi_1_1Provider_01_4" ]
     ] ],
     [ "mxl", "namespacemxl.html", [
       [ "lib", "namespacemxl_1_1lib.html", [
@@ -26,7 +26,6 @@ var annotated_dup =
             [ "Fabric", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1Fabric.html", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1Fabric" ],
             [ "FabricAddress", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricAddress.html", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricAddress" ],
             [ "FabricException", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricException.html", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricException" ],
-            [ "FabricInfo", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfo.html", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfo" ],
             [ "FabricInfoIterator", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfoIterator.html", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfoIterator" ],
             [ "FabricInfoList", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfoList.html", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfoList" ],
             [ "FabricInfoView", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfoView.html", "classmxl_1_1lib_1_1fabrics_1_1ofi_1_1FabricInfoView" ],
@@ -82,9 +81,15 @@ var annotated_dup =
         [ "DiscreteFlowData", "classmxl_1_1lib_1_1DiscreteFlowData.html", "classmxl_1_1lib_1_1DiscreteFlowData" ],
         [ "DiscreteFlowReader", "classmxl_1_1lib_1_1DiscreteFlowReader.html", "classmxl_1_1lib_1_1DiscreteFlowReader" ],
         [ "DiscreteFlowWriter", "classmxl_1_1lib_1_1DiscreteFlowWriter.html", "classmxl_1_1lib_1_1DiscreteFlowWriter" ],
-        [ "DomainWatcher", "classmxl_1_1lib_1_1DomainWatcher.html", "classmxl_1_1lib_1_1DomainWatcher" ],
         [ "DomainWatcherRecord", "structmxl_1_1lib_1_1DomainWatcherRecord.html", "structmxl_1_1lib_1_1DomainWatcherRecord" ],
         [ "Duration", "structmxl_1_1lib_1_1Duration.html", "structmxl_1_1lib_1_1Duration" ],
+        [ "Event", "structmxl_1_1lib_1_1Event.html", "structmxl_1_1lib_1_1Event" ],
+        [ "EventFlowData", "classmxl_1_1lib_1_1EventFlowData.html", "classmxl_1_1lib_1_1EventFlowData" ],
+        [ "EventFlowReader", "classmxl_1_1lib_1_1EventFlowReader.html", "classmxl_1_1lib_1_1EventFlowReader" ],
+        [ "EventFlowWriter", "classmxl_1_1lib_1_1EventFlowWriter.html", "classmxl_1_1lib_1_1EventFlowWriter" ],
+        [ "EventHeader", "structmxl_1_1lib_1_1EventHeader.html", "structmxl_1_1lib_1_1EventHeader" ],
+        [ "EventRingBuffer", "classmxl_1_1lib_1_1EventRingBuffer.html", "classmxl_1_1lib_1_1EventRingBuffer" ],
+        [ "EventRingHeader", "structmxl_1_1lib_1_1EventRingHeader.html", "structmxl_1_1lib_1_1EventRingHeader" ],
         [ "Flow", "structmxl_1_1lib_1_1Flow.html", "structmxl_1_1lib_1_1Flow" ],
         [ "FlowData", "classmxl_1_1lib_1_1FlowData.html", "classmxl_1_1lib_1_1FlowData" ],
         [ "FlowIoFactory", "classmxl_1_1lib_1_1FlowIoFactory.html", "classmxl_1_1lib_1_1FlowIoFactory" ],
@@ -104,6 +109,8 @@ var annotated_dup =
         [ "PosixContinuousFlowWriter", "classmxl_1_1lib_1_1PosixContinuousFlowWriter.html", "classmxl_1_1lib_1_1PosixContinuousFlowWriter" ],
         [ "PosixDiscreteFlowReader", "classmxl_1_1lib_1_1PosixDiscreteFlowReader.html", "classmxl_1_1lib_1_1PosixDiscreteFlowReader" ],
         [ "PosixDiscreteFlowWriter", "classmxl_1_1lib_1_1PosixDiscreteFlowWriter.html", "classmxl_1_1lib_1_1PosixDiscreteFlowWriter" ],
+        [ "PosixEventFlowReader", "classmxl_1_1lib_1_1PosixEventFlowReader.html", "classmxl_1_1lib_1_1PosixEventFlowReader" ],
+        [ "PosixEventFlowWriter", "classmxl_1_1lib_1_1PosixEventFlowWriter.html", "classmxl_1_1lib_1_1PosixEventFlowWriter" ],
         [ "PosixFlowIoFactory", "structmxl_1_1lib_1_1PosixFlowIoFactory.html", "structmxl_1_1lib_1_1PosixFlowIoFactory" ],
         [ "SharedMemoryBase", "classmxl_1_1lib_1_1SharedMemoryBase.html", "classmxl_1_1lib_1_1SharedMemoryBase" ],
         [ "SharedMemoryInstance", "structmxl_1_1lib_1_1SharedMemoryInstance.html", "structmxl_1_1lib_1_1SharedMemoryInstance" ],
@@ -111,7 +118,8 @@ var annotated_dup =
         [ "Timepoint", "structmxl_1_1lib_1_1Timepoint.html", "structmxl_1_1lib_1_1Timepoint" ]
       ] ],
       [ "tests", "namespacemxl_1_1tests.html", [
-        [ "mxlDomainFixture", "classmxl_1_1tests_1_1mxlDomainFixture.html", "classmxl_1_1tests_1_1mxlDomainFixture" ]
+        [ "mxlDomainFixture", "classmxl_1_1tests_1_1mxlDomainFixture.html", "classmxl_1_1tests_1_1mxlDomainFixture" ],
+        [ "UdpDatagram", "structmxl_1_1tests_1_1UdpDatagram.html", "structmxl_1_1tests_1_1UdpDatagram" ]
       ] ]
     ] ],
     [ "BatchIndexAndSize", "structBatchIndexAndSize.html", "structBatchIndexAndSize" ],
@@ -121,6 +129,8 @@ var annotated_dup =
     [ "mxlCommonFlowConfigInfo_t", "structmxlCommonFlowConfigInfo__t.html", "structmxlCommonFlowConfigInfo__t" ],
     [ "mxlContinuousFlowConfigInfo_t", "structmxlContinuousFlowConfigInfo__t.html", "structmxlContinuousFlowConfigInfo__t" ],
     [ "mxlDiscreteFlowConfigInfo_t", "structmxlDiscreteFlowConfigInfo__t.html", "structmxlDiscreteFlowConfigInfo__t" ],
+    [ "mxlEventFlowConfigInfo_t", "structmxlEventFlowConfigInfo__t.html", "structmxlEventFlowConfigInfo__t" ],
+    [ "mxlEventInfo_t", "structmxlEventInfo__t.html", "structmxlEventInfo__t" ],
     [ "mxlFabricsEndpointAddress_t", "structmxlFabricsEndpointAddress__t.html", "structmxlFabricsEndpointAddress__t" ],
     [ "mxlFabricsInitiatorConfig_t", "structmxlFabricsInitiatorConfig__t.html", "structmxlFabricsInitiatorConfig__t" ],
     [ "mxlFabricsInterfaceCaps_t", "structmxlFabricsInterfaceCaps__t.html", "structmxlFabricsInterfaceCaps__t" ],
